@@ -15,3 +15,20 @@ console.log(d || g); // null
 console.log(g || d); // 0
 console.log(a && c); // true
 console.log(c && a); // 'word'
+
+
+//callback function
+
+function createQuote(quote, callback){ 
+  var myQuote = "Like I always say, " + quote;
+  callback(myQuote); // 2
+}
+
+function logQuote(quote){
+  console.log(quote);
+}
+
+createQuote("eat your vegetables!", logQuote); // 1
+
+// Result in console: 
+// Like I always say, eat your vegetables!
