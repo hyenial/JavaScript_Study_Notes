@@ -1,2 +1,2 @@
 # JavaScript_Projects
-it  shows some javascript projects in my portfolio
+It  shows some javascript examples projects and study notes
