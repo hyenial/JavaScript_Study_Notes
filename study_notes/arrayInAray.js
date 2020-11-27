@@ -37,4 +37,6 @@ for(var i=0; i<numbers.length; i++){
 }
 
 // Print the final array
+// Print the final array
+
 console.log(numbers);
