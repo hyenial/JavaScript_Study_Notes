@@ -1,4 +1,5 @@
-"""
+/*
+
 Objective
 
 In this challenge, we practice looping over the characters of string. Check out the attached tutorial for more details.
@@ -45,4 +46,5 @@ Each letter is printed on a new line.
 Then the vowels are printed in the same order as they appeared in .
 Then the consonants are printed in the same order as they appeared in .
 
-"""
+*/
+
