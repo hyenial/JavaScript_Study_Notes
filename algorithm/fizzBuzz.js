@@ -1,6 +1,6 @@
-//
+// write a function which returns multiple of 3 fizz and multiple of 5 fizz and multiple of 15 fizzbuzz
 
-//
+
 function fizzBuzz (num) {
   for (var i = 1; i <= num; i++){
       if (i % 15 === 0){
