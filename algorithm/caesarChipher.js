@@ -35,4 +35,6 @@ function caesarCipher(str,num) {
   
   return newString;
 }
-caesarCipher('write your text', 2); // test your code
+// caesarCipher('write your text', 2); 
+// test your code
+console.log(caesarCipher('write your text', 2));
