@@ -1,4 +1,4 @@
-/* this function returns mean median and mode if given array
+/* this function returns mean median and mode in any given array
 
 function meanMedianMode(array) {
   return {
