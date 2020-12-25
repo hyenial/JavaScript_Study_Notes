@@ -1,4 +1,10 @@
-/* this function returns mean median and mode in any given array
+// this function returns mean median and mode in any given array //
+
+/*
+The mean (average) of a data set is found by adding all numbers in the data set and then dividing by the number of values in the set. 
+The median is the middle value when a data set is ordered from least to greatest. 
+The mode is the number that occurs most often in a data set.
+*/
 
 function meanMedianMode(array) {
   return {
