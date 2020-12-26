@@ -1,4 +1,4 @@
-/*
+// this algorithms returns two sum of given array //
 function twoSum(numArray, sum) {
   var pairs = [];
   var hashTable = [];
@@ -18,4 +18,4 @@ function twoSum(numArray, sum) {
 twoSum([1, 6, 4, 5, 3, 3], 7);
 
 
-*/
+
