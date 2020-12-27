@@ -9,7 +9,7 @@ fibonacci(position);
 
 // this function has high timecomlexity. this is not recomended....
 
-
+// this function is better
 function fibMemo(index, cache) {
   cache = cache || [];
   if (cache[index]) return cache[index];
@@ -22,4 +22,4 @@ function fibMemo(index, cache) {
   return cache[index];
 }
  
-fibMemo(500);
+fibMemo(index);
