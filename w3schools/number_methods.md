@@ -3,7 +3,7 @@
  
  
  ### The toPrecision() Method
- toPrecision() returns a string, with a number written with a specified length:
+ 'toPrecision()' returns a string, with a number written with a specified length:
 
 
 
