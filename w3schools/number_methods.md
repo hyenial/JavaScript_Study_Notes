@@ -12,9 +12,9 @@
 `valueOf()` returns a number as a number.
 
 * #### Converting Variables to Numbers
- - `Number()`	Returns a number, converted from its argument.
- - `parseFloat()`	Parses its argument and returns a floating point number
- - `parseInt()`	Parses its argument and returns an integer
+  - `Number()`	Returns a number, converted from its argument.
+  - `parseFloat()`	Parses its argument and returns a floating point number
+  - `parseInt()`	Parses its argument and returns an integer
 
 
 
