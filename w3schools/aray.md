@@ -10,3 +10,16 @@ for (i = 0; i < fLen; i++) {
 text += "</ul>";
 ```
 
+## `Array.forEach()` function:
+```
+var fruits, text;
+fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+text = "<ul>";
+fruits.forEach(myFunction);
+text += "</ul>";
+
+function myFunction(value) {
+  text += "<li>" + value + "</li>";
+}
+```
