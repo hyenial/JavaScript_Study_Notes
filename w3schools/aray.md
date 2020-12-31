@@ -11,6 +11,9 @@ text += "</ul>";
 ```
 
 ## `Array.forEach()` function:
+`Array.forEach()` calls a function for each array element.
+
+
 ```
 var fruits, text;
 fruits = ["Banana", "Orange", "Apple", "Mango"];
