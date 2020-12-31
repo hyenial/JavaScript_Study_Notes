@@ -1,4 +1,5 @@
-## Numbrt Methods
+### Number Methods
+
 
 #### The `toFixed()` Method
  `toFixed()` returns a string, with the number written with a specified number of decimals:
