@@ -1,12 +1,21 @@
-// JavaScript Function Syntax
-// A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+/*Function Declarations
 
-// Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+ JavaScript Function Syntax
+ A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
-// The parentheses may include parameter names separated by commas:
-// (parameter1, parameter2, ...)
+ Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
 
-// The code to be executed, by the function, is placed inside curly brackets: {}
+ The parentheses may include parameter names separated by commas:
+ (parameter1, parameter2, ...)
+
+ The code to be executed, by the function, is placed inside curly brackets: {}
+
+function myFunction(a, b) {
+  return a * b;
+}
+
+*/
+
 
 
 var x = myFunction(4, 3);   // Function is called, return value will end up in x
