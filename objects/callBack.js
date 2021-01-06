@@ -1,5 +1,5 @@
 
-function callAndAdd(n, callbackFunction) { //secand variable is function
+function callAndAdd(n, callbackFunction) { //second variable is function
   return n + callbackFunction(); //callBackfubction returns the returnThree function
 }
 
