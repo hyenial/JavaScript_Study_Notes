@@ -1,6 +1,6 @@
 
-function callAndAdd(n, callbackFunction) {
-  return n + callbackFunction(); //callBackfubction returns the returnThree fubction
+function callAndAdd(n, callbackFunction) { //secand variable is function
+  return n + callbackFunction(); //callBackfubction returns the returnThree function
 }
 
 function returnsThree() {
