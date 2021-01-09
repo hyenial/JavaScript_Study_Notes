@@ -16,3 +16,16 @@ riley.role;
 
 taylor.introduce();
 riley.introduce();
+
+/*
+function SoftwareDeveloper(name) {
+   this.favoriteLanguage = 'JavaScript';
+   this.name = name;
+}
+
+let coder = SoftwareDeveloper('David');
+
+console.log(coder);
+// undefined
+
+*/
