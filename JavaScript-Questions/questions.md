@@ -3,7 +3,7 @@
   <h1>JavaScript Questions</h1>
 
 </div>
-  <p> thank you for reference  <a href="https://github.com/lydiahallie/javascript-questions"> lydiahallie </a> </p>
+  <p> thank you for documentation.  <a href="https://github.com/lydiahallie/javascript-questions"> lydiahallie </a> </p>
 
 
 ---
