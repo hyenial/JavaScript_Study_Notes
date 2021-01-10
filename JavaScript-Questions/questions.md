@@ -1,7 +1,7 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <h1>JavaScript Questions</h1>
-  <h3> thank you. referanfce : <a href="https://github.com/lydiahallie/javascript-questions"> lydiahallie </a>
+  <p> thank you for reference  <a href="https://github.com/lydiahallie/javascript-questions"> lydiahallie </a> </p>
 
 </div>
 
