@@ -1,2 +1,2 @@
 # JavaScript_Projects
-It  shows some javascript examples projects and study notes
+It  shows some javascript examples of projects and study notes.
