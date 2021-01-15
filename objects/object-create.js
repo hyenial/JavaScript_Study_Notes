@@ -12,3 +12,13 @@ me.isHuman = true; // inherited properties can be overwritten
 
 me.printIntroduction();
 // expected output: "My name is Matthew. Am I human? true"
+
+
+function Cat(name) {
+ this.lives = 9;
+ this.name = name;
+
+ this.sayName = function () {
+   console.log(`Meow! My name is ${this.name}`);
+ };
+}
