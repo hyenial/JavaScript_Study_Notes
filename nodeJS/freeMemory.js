@@ -9,3 +9,7 @@ var freeMomory = os.freemem();
 
 console.log(`Total memory: ${totalMemory}`); //this is ES6
 console.log(`Free memory: ${freeMomory}`); //this is ES6
+
+// Total memory: 20892880896
+// Free memory: 9638309888
+
