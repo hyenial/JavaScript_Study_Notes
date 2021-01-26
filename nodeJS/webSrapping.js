@@ -32,3 +32,7 @@ request('http://codedemos.com/sampleblog', (error, response, html) => {
     console.log('Scraping Done...');
   }
 });
+
+
+// for demo you can follow the link
+https://repl.it/@harunyen/webScrappingjs
