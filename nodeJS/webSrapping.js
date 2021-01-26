@@ -35,4 +35,4 @@ request('http://codedemos.com/sampleblog', (error, response, html) => {
 
 
 // for demo you can follow the link
-https://repl.it/@harunyen/webScrappingjs
+// https://repl.it/@harunyen/webScrappingjs
