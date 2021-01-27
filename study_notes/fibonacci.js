@@ -1,4 +1,5 @@
 // this script generates fibonacci numbers
+// this script is used recursion function. first algoritm has 2*n time complexity, second script has linear time complexity 
 
 function fibonacci(num) {
   if (num <= 1) return 1;
