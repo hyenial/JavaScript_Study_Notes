@@ -1,4 +1,6 @@
 // creates a line of * for a given length
+// for demo follow the lnk https://repl.it/@harunyen/triangle#index.js
+
 function makeLine(length) {
     var line = "";
     for (var j = 1; j <= length; j++) {
