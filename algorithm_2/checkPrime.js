@@ -20,3 +20,5 @@ function isPrime(n){
 }
 
 # isPrime(n);
+
+# https://thatjsdude.com/interview/js1.html#isPrime
