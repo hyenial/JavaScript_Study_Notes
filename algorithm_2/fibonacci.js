@@ -1,24 +1,22 @@
 /*
-Question: How could you find all prime factors of a number?
+Question: How do get nth Fibonacci number?
 
-Answer: Run a while loop. start dividing by two and if not divisible increase divider until u r done.
+Answer: I create an array and start from iterate through.
+
+Fibonacci series is one of the most popular interview question for beginners. so, you have to learn this one.
 
 */
 
-function primeFactors(n){
-  var factors = [], 
-      divisor = 2;
+function fibonacci(n){
+  var fibo = [0, 1];
   
-  while(n>2){
-    if(n % divisor == 0){
-       factors.push(divisor); 
-       n= n/ divisor;
-    }
-    else{
-      divisor++;
-    }     
-  }
-  return factors;
-}
+  if (n <= 2) return 1;
 
-primeFactors(n);
+  for (var i = 2; i <=n; i++ ){
+   fibo[i] = fibo[i-1]+fibo[i-2];
+  }
+
+ return fibo[n];
+} 
+
+fibonacci(n);
