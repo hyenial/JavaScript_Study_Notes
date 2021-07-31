@@ -22,3 +22,12 @@ function greatestCommonDivisor(a, b){
 # = 1
 
         
+# 2nd way
+
+function greatestCommonDivisor(a, b){
+   if(b == 0)
+     return a;
+   else 
+     return greatestCommonDivisor(b, a%b);
+}
+  
